@@ -19,4 +19,7 @@ public class JavaApplication8 {
         //kkkkllkòkòò
     }
     
+    private static void prova(){
+        
+    }
 }
