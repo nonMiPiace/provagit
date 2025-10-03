@@ -16,7 +16,9 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //kkkkllkòkòò
+        
+        //yhfyufdcu6
+        //jd9qweh
     }
     
     private static void prova(){
